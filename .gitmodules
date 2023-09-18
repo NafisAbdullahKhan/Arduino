@@ -1,0 +1,3 @@
+[submodule "ArduinoGame"]
+	path = ArduinoGame
+	url = git@bitbucket.org:nafisabdkhan/arduinogame.git

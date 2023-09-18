@@ -1,0 +1,25 @@
+Okay. So here's what I'd like to propose we work on, provided you feel that you can take it on:
+
+I want to build a system that will integrate features of some of the popular video games like Call of Duty and Battlefield 3 into outdoor airsoft games. So far, I have built one very simple box for this- it is basically an electronic Capture The Flag device. It has a screen, a red button, a blue button, as well as Start and Reset switches. The game can be set to last for up to 15 minutes, and when you press Start, the timer starts counting down. In order to score points, the teams must capture the box by pressing the button for their team and holding it down for 20 seconds. After 20 seconds, it latches and begins scoring points for them. If the other team then gets to the box, they can capture it in the same manner. When the timer runs out, or when the preset point total is reached, the game is over, and a buzzer sounds.
+
+What I want to do is expand this so we can have multiple boxes connected wirelessly. This will allow for some creative game options:
+
+1) Domination Mode. This requires one team to capture more than half of the boxes and hold them until the timer runs out.
+
+2) Rush Mode. This requires a team to capture as many of the boxes as possible in any order. When the timer expires, the team with the most points wins.
+
+3) Push Mode. This requires the teams to capture the boxes in a specific order (1, 2, 3, etc.). This means good communication between team members so they can know which box to capture next.
+
+4) Launch Mode. This requires team members to capture two or more boxes simultaneously in order to score points or win the round. If the boxes are not captured within 2 seconds of each other, they both reset.
+
+5) Critical Mass Mode. This requires physically moving the boxes to the same location and connecting them with wire jumpers or cables. This simulates gathering the components of a device such as a power reactor or satellite transmitter in order to complete a mission objective.
+
+6) Dead Man Mode. This requires a team member to continually hold down a button on the box in order to score points.
+
+These are some of the ideas- some may not be workable. I'd like to hear your thoughts.
+
+Each box will have a screen (probably 20x4 LCD, but can be matrix display like 320x240 or something else), several buttons for controls, a matrix keypad (some game modes may require a numerical code to be entered), a long-range serial transceiver in order to communicate with the other boxes, a buzzer or speaker for audible signals, and several relay outputs for triggering external events (we can have the boxes set off a smoke screen, or unlock a cabinet with supplies in it, for example).
+
+Okay, that's the short and sweet description. Let me know what you think, and we'll go from there! I'm heading to bed now, but look forward to hearing your thoughts.
+
+J
